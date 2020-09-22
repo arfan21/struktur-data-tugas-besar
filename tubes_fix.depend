@@ -1,0 +1,179 @@
+# depslib dependency file v1.0
+1586530431 source:d:\struktur data\tugas struktur data\tugas besar\tugas besar fix\tubes_fix\list_child_barang.cpp
+	"list_child_barang.h"
+
+1586530437 d:\struktur data\tugas struktur data\tugas besar\tugas besar fix\tubes_fix\list_child_barang.h
+	<iostream>
+	<iomanip>
+
+1586519594 source:d:\struktur data\tugas struktur data\tugas besar\tugas besar fix\tubes_fix\list_parent_pembeli.cpp
+	"list_parent_pembeli.h"
+
+1586516798 d:\struktur data\tugas struktur data\tugas besar\tugas besar fix\tubes_fix\list_parent_pembeli.h
+	<iostream>
+	"list_relasi.h"
+	<iomanip>
+
+1586509901 d:\struktur data\tugas struktur data\tugas besar\tugas besar fix\tubes_fix\list_relasi.h
+	"list_child_barang.h"
+	<iostream>
+	<iomanip>
+
+1586509866 source:d:\struktur data\tugas struktur data\tugas besar\tugas besar fix\tubes_fix\list_relasi.cpp
+	"list_relasi.h"
+
+1586530951 source:d:\struktur data\tugas struktur data\tugas besar\tugas besar fix\tubes_fix\main.cpp
+	"list_parent_pembeli.h"
+	"list_child_barang.h"
+	"list_relasi.h"
+	<unistd.h>
+	<stdio.h>
+	<string>
+
+1586530431 source:e:\c++\tubes_fix\tubes_fix\list_child_barang.cpp
+	"list_child_barang.h"
+
+1586537362 e:\c++\tubes_fix\tubes_fix\list_child_barang.h
+	<iostream>
+	<iomanip>
+
+1586519594 source:e:\c++\tubes_fix\tubes_fix\list_parent_pembeli.cpp
+	"list_parent_pembeli.h"
+
+1586537358 e:\c++\tubes_fix\tubes_fix\list_parent_pembeli.h
+	<iostream>
+	"list_relasi.h"
+	<iomanip>
+
+1586537375 e:\c++\tubes_fix\tubes_fix\list_relasi.h
+	"list_child_barang.h"
+	<iostream>
+	<iomanip>
+
+1586509866 source:e:\c++\tubes_fix\tubes_fix\list_relasi.cpp
+	"list_relasi.h"
+
+1586535217 source:e:\c++\tubes_fix\tubes_fix\main.cpp
+	"menu.h"
+
+1586533915 source:e:\c++\tubes_fix\tubes_fix\menu.cpp
+
+1586536204 e:\c++\tubes_fix\tubes_fix\menu.h
+	"list_parent_pembeli.h"
+	"list_child_barang.h"
+	"list_relasi.h"
+	<unistd.h>
+	<stdio.h>
+	<string>
+
+1587140357 source:d:\struktur data\tugas struktur data\tugasbesar fix\tubes_fix\list_child_barang.cpp
+	"list_child_barang.h"
+
+1586537362 d:\struktur data\tugas struktur data\tugasbesar fix\tubes_fix\list_child_barang.h
+	<iostream>
+	<iomanip>
+
+1587141621 source:d:\struktur data\tugas struktur data\tugasbesar fix\tubes_fix\list_parent_pembeli.cpp
+	"list_parent_pembeli.h"
+
+1587140609 d:\struktur data\tugas struktur data\tugasbesar fix\tubes_fix\list_parent_pembeli.h
+	<iostream>
+	"list_relasi.h"
+	<iomanip>
+
+1586537375 d:\struktur data\tugas struktur data\tugasbesar fix\tubes_fix\list_relasi.h
+	"list_child_barang.h"
+	<iostream>
+	<iomanip>
+
+1586509866 source:d:\struktur data\tugas struktur data\tugasbesar fix\tubes_fix\list_relasi.cpp
+	"list_relasi.h"
+
+1587038058 source:d:\struktur data\tugas struktur data\tugasbesar fix\tubes_fix\main.cpp
+	"menu.h"
+
+1586536204 d:\struktur data\tugas struktur data\tugasbesar fix\tubes_fix\menu.h
+	"list_parent_pembeli.h"
+	"list_child_barang.h"
+	"list_relasi.h"
+	<unistd.h>
+	<stdio.h>
+	<string>
+
+1587140550 source:d:\struktur data\tugas struktur data\tugasbesar fix\tubes_fix\menu.cpp
+	"menu.h"
+
+1587140357 source:e:\c++\tubes_fix\tubes_fix_mantap\tubes_fix\list_child_barang.cpp
+	"list_child_barang.h"
+
+1586537362 e:\c++\tubes_fix\tubes_fix_mantap\tubes_fix\list_child_barang.h
+	<iostream>
+	<iomanip>
+
+1587286557 source:e:\c++\tubes_fix\tubes_fix_mantap\tubes_fix\list_parent_pembeli.cpp
+	"list_parent_pembeli.h"
+
+1587140609 e:\c++\tubes_fix\tubes_fix_mantap\tubes_fix\list_parent_pembeli.h
+	<iostream>
+	"list_relasi.h"
+	<iomanip>
+
+1586537375 e:\c++\tubes_fix\tubes_fix_mantap\tubes_fix\list_relasi.h
+	"list_child_barang.h"
+	<iostream>
+	<iomanip>
+
+1586509866 source:e:\c++\tubes_fix\tubes_fix_mantap\tubes_fix\list_relasi.cpp
+	"list_relasi.h"
+
+1587038058 source:e:\c++\tubes_fix\tubes_fix_mantap\tubes_fix\main.cpp
+	"menu.h"
+
+1586536204 e:\c++\tubes_fix\tubes_fix_mantap\tubes_fix\menu.h
+	"list_parent_pembeli.h"
+	"list_child_barang.h"
+	"list_relasi.h"
+	<unistd.h>
+	<stdio.h>
+	<string>
+
+1587141890 source:e:\c++\tubes_fix\tubes_fix_mantap\tubes_fix\menu.cpp
+	"menu.h"
+
+1587622742 source:d:\struktur data\tugas struktur data\tugasbesar_haydar rizaldy_arfan jadulhaq\tubes_fix\list_child_barang.cpp
+	"list_child_barang.h"
+
+1586537362 d:\struktur data\tugas struktur data\tugasbesar_haydar rizaldy_arfan jadulhaq\tubes_fix\list_child_barang.h
+	<iostream>
+	<iomanip>
+
+1587286557 source:d:\struktur data\tugas struktur data\tugasbesar_haydar rizaldy_arfan jadulhaq\tubes_fix\list_parent_pembeli.cpp
+	"list_parent_pembeli.h"
+
+1587140609 d:\struktur data\tugas struktur data\tugasbesar_haydar rizaldy_arfan jadulhaq\tubes_fix\list_parent_pembeli.h
+	<iostream>
+	"list_relasi.h"
+	<iomanip>
+
+1587601355 d:\struktur data\tugas struktur data\tugasbesar_haydar rizaldy_arfan jadulhaq\tubes_fix\list_relasi.h
+	"list_child_barang.h"
+	<iostream>
+	<iomanip>
+
+1587604068 source:d:\struktur data\tugas struktur data\tugasbesar_haydar rizaldy_arfan jadulhaq\tubes_fix\list_relasi.cpp
+	"list_relasi.h"
+
+1587038058 source:d:\struktur data\tugas struktur data\tugasbesar_haydar rizaldy_arfan jadulhaq\tubes_fix\main.cpp
+	"menu.h"
+
+1586536204 d:\struktur data\tugas struktur data\tugasbesar_haydar rizaldy_arfan jadulhaq\tubes_fix\menu.h
+	"list_parent_pembeli.h"
+	"list_child_barang.h"
+	"list_relasi.h"
+	<unistd.h>
+	<stdio.h>
+	<string>
+
+1587623353 source:d:\struktur data\tugas struktur data\tugasbesar_haydar rizaldy_arfan jadulhaq\tubes_fix\menu.cpp
+	"menu.h"
+
